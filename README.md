@@ -6,7 +6,9 @@ However, They are also interesting generalizations of the basic logic gates enco
 
 
 Tp get a better understanding of what Fuzzy AND\OR neurons are, I suggest looking at the follwoing references:
+
 [1] K. Hirota and W. Pedrycz, “OR/AND neuron in modeling fuzzy set connectives,” IEEE Trans. Fuzzy Systems, vol. 2, pp. 151–161, May 1994.
+
 [2] M. Alateeq, and W. Pedrycz, "Development of two-phase logic-oriented fuzzy AND/OR network", Neurocomputing, Volume 482, 14 April 2022, Pages 129-138
 
 This codes for implementing Fuzzy logic oriented AND\OR neurons
